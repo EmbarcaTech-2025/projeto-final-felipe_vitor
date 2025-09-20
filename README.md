@@ -111,11 +111,13 @@ O protótipo deve ser utilizado da seguinte forma:
 
 ## 📸 Mídia
 
-📷 Fotos e 🎥 vídeos de demonstração serão adicionados em breve.
+🎥 vídeos de demonstração:
 
-- Vídeo de funcionamento (queda detectada, alerta de emergência e lembrete de hidratação)
+- Demonstração da detecção de queda: 
 
----
+https://www.youtube.com/watch?v=7T5IWpC38zU
+
+-
 
 ## ✅ Resultados
 
